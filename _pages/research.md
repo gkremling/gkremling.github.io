@@ -18,6 +18,14 @@ Submitted to *Econometrica*, 2024
 Published in *Communications in Appled Mathematics and Computational Science*, 2021
 
 
+Published Software
+---
+
+[R-package *gofreg*: Bootstrap-Based Goodness-of-Fit Tests for Parametric Regression](https://CRAN.R-project.org/package=gofreg)\
+**G.Kremling**\
+Published on CRAN, 2024
+
+
 Conference Presentations
 ---
 
