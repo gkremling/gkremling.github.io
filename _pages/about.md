@@ -9,7 +9,7 @@ redirect_from:
 
 I am a research associate at FH Aachen University of Applied Sciences in Germany working on mathematical statistics. I recently earned my Ph.D. in mathematics at the University of Wisconsin-Milwaukee, under the guidance of [Gerhard Dikta](https://www.fh-aachen.de/en/people/dikta) and [Richard Stockbridge](https://uwm.edu/math/people/stockbridge-richard/). Driven by an ongoing passion for learning, I completed my degree as one of the youngest graduates in the program. This achievement reflects my eagerness to deepen my understanding of complex concepts and my determination to tackle challenging problems --- a mindset that continues to inspire my postdoctoral research and professional growth.
 
-Outside of academia, I enjoy staying active through sports such as beach volleyball, running and partner acrobatics. These activities not only provide balance to my work but also encourage teamwork, perseverance, and creative problem-solving --- skills that are valuable in both my personal and professional life.
+Outside of academia, I enjoy staying active through sports such as beach volleyball, running and acrobatics. These activities not only provide balance to my work but also encourage teamwork, perseverance, and creative problem-solving --- skills that are valuable in both my personal and professional life.
 
 You can find my CV [here](files/cv.pdf).
 
