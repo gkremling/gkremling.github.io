@@ -9,13 +9,17 @@ See also my [Google scholar page](https://scholar.google.com/citations?user=-W-Q
 Journal articles
 ---
 
+[Asymptotic properties of the MLE in distributional regression under random censoring](https://arxiv.org/abs/2503.14311)\
+**G. Kremling** and Gerhard Dikta\
+Submitted for publication (currently under review), 2025
+
 [Bootstrap-based goodness-of-fit test for parametric families of conditional distributions](https://arxiv.org/abs/2409.20262)\
 **G. Kremling** and Gerhard Dikta\
-Submitted to *Econometrica*, 2024
+Submitted for publication (currently under review), 2024
 
 [Convergence analysis of multi-level spectral deferred corrections](https://arxiv.org/abs/2002.07555)\
 **G. Kremling** and Robert Speck\
-Published in *Communications in Appled Mathematics and Computational Science*, 2021
+Published in *Communications in Applied Mathematics and Computational Science*, 2021
 
 
 Published Software
@@ -28,6 +32,9 @@ Published on CRAN, 2024
 
 Presentations
 ---
+
+**Talk at German Probability and Statistics Days**, Dresden, Germany in **March 2025.** [Slides](../files/presentation_gpsd_kremling.pdf)\
+"Bootstrap-based goodness-of-fit test for parametric families of conditional distributions"
 
 **Talk at Joint Statistical Meetings**, Portland, OR, USA in **August 2024.** [Slides](../files/presentation_jsm_kremling.pdf)\
 "Bootstrap-based goodness-of-fit test for parametric regression based on conditional distribution families"
