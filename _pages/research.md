@@ -33,21 +33,21 @@ Published on CRAN, 2024
 Presentations
 ---
 
-**Talk at German Probability and Statistics Days**, Dresden, Germany in **March 2025.** [Slides](../files/presentation_gpsd_kremling.pdf)\
-"Bootstrap-based goodness-of-fit test for parametric families of conditional distributions"
+Talk at **German Probability and Statistics Days**, Dresden, Germany in **March 2025.** [Slides](../files/presentation_gpsd_kremling.pdf)
+<!-- "Bootstrap-based goodness-of-fit test for parametric families of conditional distributions" -->
 
-**Talk at Joint Statistical Meetings**, Portland, OR, USA in **August 2024.** [Slides](../files/presentation_jsm_kremling.pdf)\
-"Bootstrap-based goodness-of-fit test for parametric regression based on conditional distribution families"
+Talk at **Joint Statistical Meetings**, Portland, OR, USA in **August 2024.** [Slides](../files/presentation_jsm_kremling.pdf)
+<!-- "Bootstrap-based goodness-of-fit test for parametric regression based on conditional distribution families" -->
 
-**Talk at European Meeting of Statisticians**, Warsaw, Poland in **July 2023.** [Slides](../files/presentation_ems_kremling.pdf)\
-"Bootstrap-based goodness-of-fit test for parametric generalized linear models under random censorship"
+Talk at **European Meeting of Statisticians**, Warsaw, Poland in **July 2023.** [Slides](../files/presentation_ems_kremling.pdf)
+<!-- "Bootstrap-based goodness-of-fit test for parametric generalized linear models under random censorship" -->
 
-**Poster at German Probability and Statistics Days**, Essen, Germany in **March 2023.** [Poster](../files/poster_gpsd_kremling.pdf)\
-"Simulation study of a MLE and bootstrap-based goodness-of-fit test for parametric generalized linear models under random censorship"
+Poster at **German Probability and Statistics Days**, Essen, Germany in **March 2023.** [Poster](../files/poster_gpsd_kremling.pdf)
+<!-- "Simulation study of a MLE and bootstrap-based goodness-of-fit test for parametric generalized linear models under random censorship" -->
 
-**Talks at Graduate Student Colloquium**, Department of Mathematical Sciences, University of Wisconsin-Milwaukee, USA\
-"An Introduction to the Bootstrap Method" in **April 2022**\
-"Deep neural networks as kernel machines: An approach to explain the mysteriously superb performance of ANNs" in **December 2021**
+Talks at **Graduate Student Colloquium**, Department of Mathematical Sciences, University of Wisconsin-Milwaukee, USA in **April 2022** and **December 2021**
+<!-- "An Introduction to the Bootstrap Method" in **April 2022**\ -->
+<!-- "Deep neural networks as kernel machines: An approach to explain the mysteriously superb performance of ANNs" in **December 2021** -->
 
-**Talk at International Conference on Scientific Computing and Differential Equations**, Innsbruck, Austria in **July 2019.** [Slides](../files/presentation_scicade_kremling.pdf)\
-"Convergence of multilevel spectral deferred corrections"
+Talk at **International Conference on Scientific Computing and Differential Equations**, Innsbruck, Austria in **July 2019.** [Slides](../files/presentation_scicade_kremling.pdf)
+<!-- "Convergence of multilevel spectral deferred corrections" -->
