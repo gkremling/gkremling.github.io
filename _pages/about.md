@@ -11,7 +11,7 @@ I am a Postdoctoral Researcher at University of Hamburg, working in [Johannes Le
 
 I earned my PhD in Mathematics from University of Wisconsin-Milwaukee, where I was mentored by [Gerhard Dikta](https://www.fh-aachen.de/en/people/dikta) and [Richard Stockbridge](https://uwm.edu/math/people/stockbridge-richard/). During my doctoral research, I developed a strong foundation in empirical process theory, which I continue to apply in my current research on neural networks.
 
-In my postdoctoral position, I aim to broaden my research expertise and explore potential areas for future collaboration. I am particularly interested in working with researchers exploring theoretical guarantees for neural networks and those in related fields such as mathematical statistics, optimization, and machine learning.
+In my postdoctoral position, I aim to broaden my research expertise and explore potential areas for future collaboration. I am particularly interested in working with researchers exploring theoretical guarantees for neural networks and those in related fields such as mathematical statistics, generative modeling, and machine learning.
 
 I am always eager to connect with fellow researchers, so feel free to reach out if you're interested in potential collaborations or discussions on deep learning theory and related topics.
 

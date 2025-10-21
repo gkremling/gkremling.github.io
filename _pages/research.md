@@ -9,13 +9,17 @@ See also my [Google scholar page](https://scholar.google.com/citations?user=-W-Q
 Journal articles
 ---
 
+[Non-asymptotic error bounds for probability flow ODEs under weak log-concavity](https://arxiv.org/abs/2510.17608)\
+**G. Kremling**, F. Iafrate, M. Taheri and J. Lederer\
+Submitted for publication (currently under review), 2025
+
 [Asymptotic properties of the MLE in distributional regression under random censoring](https://arxiv.org/abs/2503.14311)\
 **G. Kremling** and Gerhard Dikta\
 Submitted for publication (currently under review), 2025
 
-[Bootstrap-based goodness-of-fit test for parametric families of conditional distributions](https://arxiv.org/abs/2409.20262)\
+[Bootstrap-based goodness-of-fit test for parametric families of conditional distributions](https://doi.org/10.1016/j.csda.2025.108289)\
 **G. Kremling** and Gerhard Dikta\
-Submitted for publication (currently under review), 2024
+Published in *Computational Statistics & Data Analysis*, 2025
 
 [Convergence analysis of multi-level spectral deferred corrections](https://arxiv.org/abs/2002.07555)\
 **G. Kremling** and Robert Speck\
@@ -32,6 +36,10 @@ Published on CRAN, 2024
 
 Presentations
 ---
+
+Poster at **Conference on Mathematics of Machine Learning**, Hamburg, Germany in **September 2025** [Poster](../files/poster_cmml_kremling.pdf)
+
+Lightning talk and open question session at **Workshop on Mathematical Data Science**, Black Forest, Germany in **July 2025** 
 
 Talk at **German Probability and Statistics Days**, Dresden, Germany in **March 2025.** [Slides](../files/presentation_gpsd_kremling.pdf)
 <!-- "Bootstrap-based goodness-of-fit test for parametric families of conditional distributions" -->
