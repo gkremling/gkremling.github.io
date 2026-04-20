@@ -34,8 +34,11 @@ As Teaching Assistant
 
 In the following courses, I served as a teaching assistant, organizing and leading the exercise classes. Additionally, I occasionally assisted with grading homework and exams.
 
+**Fundamental Concepts of Arithmetic**\
+Undergraduate Course at UHH, Spring 2026
+
 **Introduction to Mathematical Thinking and Methods**\
-Undergraduate course at UHH, Fall 2025
+Undergraduate Course at UHH, Fall 2025
 
 **Functional Analysis**\
 Graduate Course at FHA, Fall 2024
