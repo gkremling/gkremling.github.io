@@ -17,9 +17,9 @@ Submitted for publication (currently under review), 2026
 **G. Kremling**, F. Iafrate, M. Taheri and J. Lederer\
 Submitted for publication (currently under review), 2025
 
-[Asymptotic properties of the MLE in distributional regression under random censoring](https://arxiv.org/abs/2503.14311)\
+[Asymptotic properties of the MLE in distributional regression under random censoring](https://doi.org/10.1016/j.spl.2026.110827)\
 **G. Kremling** and Gerhard Dikta\
-Submitted for publication (currently under review), 2025
+Published in *Statistics & Probability Letters*, 2026
 
 [Bootstrap-based goodness-of-fit test for parametric families of conditional distributions](https://doi.org/10.1016/j.csda.2025.108289)\
 **G. Kremling** and Gerhard Dikta\
