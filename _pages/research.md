@@ -11,7 +11,7 @@ Publications and Preprints
 
 [Generative Modeling under Non-Monotonic MAR Missingness via Approximate Wasserstein Gradient Flows](https://arxiv.org/abs/2604.04567)\
 **G. Kremling**, J. Näf and J. Lederer\
-Submitted for publication (currently under review), 2026
+Accepted for publication at NeurIPS 2026
 
 [Non-asymptotic error bounds for probability flow ODEs under weak log-concavity](https://arxiv.org/abs/2510.17608)\
 **G. Kremling**, F. Iafrate, M. Taheri and J. Lederer\
@@ -44,6 +44,14 @@ Published on CRAN, 2024
 
 Presentations
 ---
+
+Invited Seminar Talk at **Research Institute for Statistics and Information Science, University of Geneva**, Geneva, Switzerland in **Sep 2026**
+
+Invited Talk at **European Meeting of Statisticians**, Lugano, Switzerland in **Aug 2026**
+
+Invited Seminar Talk at **Chair of Scientific Computing, Julius-Maximilians-Universität**, Würzburg, Germany in **Jun 2026**
+
+Invited Talk at **Italian Meeting on Probability and Mathematical Statistics**, Palermo, Italy in **Jun 2026**
 
 Invited Seminar Talk at **Statistical Laboratory, University of Cambridge**, Cambridge, UK in **April 2025**
 
